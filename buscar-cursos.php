@@ -1,4 +1,4 @@
-#!C:\xampp\php
+#!/usr/bin/env php
 <?php
 
 require 'vendor/autoload.php';
